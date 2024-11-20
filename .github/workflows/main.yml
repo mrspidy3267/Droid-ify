@@ -1,4 +1,4 @@
-name: Build Release APK
+name: Auto Build Release APK
 
 on:
   workflow_dispatch:
